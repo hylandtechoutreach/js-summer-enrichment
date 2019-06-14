@@ -4,7 +4,7 @@ Make a quiz about yourself by updating the questions in this [sample quiz](https
 1. Take the sample quiz
 1. See if you can figure out the answers by looking at the JavaScript code
 1. See what happens if you get 100% of the questions right
-1. Update the answers so they are accurate to you!
+1. Update the answers so they are accurate to you
 1. Update the styles and image to match your personality
-1. Copy the existing questions and try to add new questions about yourself
-  - Start by writing the questions down on paper, and then try to translate them into code
+1. Think of some additional questions you would like to ask in your quiz
+1. Try to update the code with the additional questions!
